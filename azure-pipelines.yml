@@ -9,9 +9,9 @@ trigger:
 variables:
   # Azure Resource Manager connection
   azureSubscription: '8d335eda-93e0-4221-82b9-4609d6358d2b'
-  
+
   # Web app name
-  webAppName: 'hiyadanodeapp'
+  webAppName: 'ajgnewaccounttest123app'
 
 stages:
 - stage: Build
