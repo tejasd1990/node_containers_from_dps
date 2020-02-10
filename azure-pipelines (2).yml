@@ -8,7 +8,7 @@ trigger:
 
 variables:
   # Azure Resource Manager connection
-  azureSubscription: '99f4ef76-ba35-4092-9654-c0a331c656b3'
+  azureSubscription: '216a0f9b-992f-49c2-8d69-b4dcbc1115d2'
   
   # Web app name
   webAppName: 'hiyadanodeapp'
