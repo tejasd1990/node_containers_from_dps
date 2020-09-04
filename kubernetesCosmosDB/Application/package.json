@@ -20,7 +20,7 @@
     "serve-favicon": "^2.3.0",
     "ioredis": "^3.2.2",
     "nodemon": "~1.17.3",
-    "mongodb": "^3.1.10"
+    "mongodb": "^3.1.13"
   },
   "engines": {
     "node": "^8.1.4"
